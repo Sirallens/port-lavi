@@ -52,3 +52,4 @@ npm run lint
 - React 19
 - Vite
 - ESLint
+- Bun
